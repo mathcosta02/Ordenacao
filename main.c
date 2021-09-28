@@ -44,9 +44,9 @@ void teste(int n, char ordem){
   //insercao(vet, n);
   //shellsort(vet, n);
   //mergesort(vet, n);
-  //quicksort(vet, n);
+  quicksort(vet, n);
   //heapsort(vet, n);
-  countingsort(vet, n);
+  //countingsort(vet, n);
   fim = clock();
   total = ((fim - inicio) / (double)CLOCKS_PER_SEC);
 
