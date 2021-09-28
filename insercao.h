@@ -1,0 +1,1 @@
+void insercao(int *vet, int n);

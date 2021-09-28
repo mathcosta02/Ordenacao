@@ -1,0 +1,1 @@
+void selecao(int *vet, int n);
